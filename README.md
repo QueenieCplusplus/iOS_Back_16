@@ -9,4 +9,6 @@ https://github.com/QueenieCplusplus/iOS_Back_14
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/Background%20Mode.png)
  
- 應用程式的寫法，待續...
+* Video App
+
+  https://github.com/QueenieCplusplus/iOS_Back_10_Video
