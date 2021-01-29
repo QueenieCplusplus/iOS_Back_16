@@ -9,10 +9,17 @@ https://github.com/QueenieCplusplus/iOS_Back_14
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/Background%20Mode.png)
  
-* Background Processing
+* check Background Processing
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/background%20processing.png)
  
+* info property list updates
+
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/info%20property%20list%20updates.png)
+
+----------------------------------------------
+
+
 * Update Location at Map
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/background%20check.png)
