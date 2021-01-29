@@ -35,3 +35,9 @@ https://github.com/QueenieCplusplus/iOS_Back_14
 * Downloader
 
   https://github.com/QueenieCplusplus/iOS_Back_6 (下載資料亦或是遠端推播觸發的下載更新資料)
+
+----------------------------------------------
+
+* code to see remaining time for Background Task
+
+ 
