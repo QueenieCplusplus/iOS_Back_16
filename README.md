@@ -42,3 +42,4 @@ https://github.com/QueenieCplusplus/iOS_Back_14
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/UIBackgroundTask.png)
  
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_16/main/backgroundTimeRemaining.png)
